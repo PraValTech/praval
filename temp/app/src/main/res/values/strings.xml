@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SweeDelight</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_slider">ImageSlider</string>
+    <string name="action_legal">Legal</string>
+
+    <string-array name="City">
+        <item> Bangalore</item>
+    </string-array>
+    <string-array name="Area">
+        <item> A Narayanapura</item>
+        <item> Adugodi</item>
+        <item> AECS Layout</item>
+        <item> Agara</item>
+        <item> Anand Nagar</item>
+    </string-array>
+    <string-array name="Store">
+        <item> Delhi Walle</item>
+        <item> Asha Sweet Centre</item>
+        <item> Bangalore Agarwal Bhavan</item>
+    </string-array>
+    <string name="title_activity_sweets">Sweets</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_offers">Offers</string>
+    <string name="title_activity_savouries">Savouries</string>
+</resources>
